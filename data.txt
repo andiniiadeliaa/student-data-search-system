@@ -1,0 +1,5 @@
+    101,Andi,SI,3.5
+    102,Budi,TI,3.2
+    103,Citra,SI,3.8
+    104,Dina,SI,3.6
+    105,Eka,TI,3.4
